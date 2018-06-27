@@ -1,0 +1,7 @@
+C:\Users\husf32\source\repos\YPX\YPX\obj\Debug\YPX.csprojAssemblyReference.cache
+C:\Users\husf32\source\repos\YPX\YPX\obj\Debug\YPX.csproj.CoreCompileInputs.cache
+C:\Users\husf32\source\repos\YPX\YPX\bin\Debug\YPX.exe.config
+C:\Users\husf32\source\repos\YPX\YPX\bin\Debug\YPX.exe
+C:\Users\husf32\source\repos\YPX\YPX\bin\Debug\YPX.pdb
+C:\Users\husf32\source\repos\YPX\YPX\obj\Debug\YPX.exe
+C:\Users\husf32\source\repos\YPX\YPX\obj\Debug\YPX.pdb
